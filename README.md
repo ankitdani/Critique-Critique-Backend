@@ -34,13 +34,13 @@ CritiqueCritique is a Spring Framework-based Movie Review Application that follo
 ## GitHub Actions Workflow
 - Integrated Cypress screenshots into the GitHub Actions workflow for continuous testing.
 
-## Contributing
+## Contributing [Coming soon]
 We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
 
 ## Acknowledgments
 - Special thanks to the open-source community for their valuable contributions.
 
-## Next Steps
+## Next Steps [Coming soon]
 - Explore upcoming features and improvements in the [Roadmap](ROADMAP.md).
 - Report any issues or contribute to the project by opening a [Pull Request](CONTRIBUTING.md).
 
