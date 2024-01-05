@@ -1,3 +1,6 @@
+package dev.project.movies;
+
+import org.bson.types.ObjectId;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
@@ -52,3 +55,4 @@ public class MovieControllerTest {
         Assert.assertEquals(responseEntity.getBody(), Optional.of(expectedMovie));
     }
 }
+
