@@ -10,7 +10,7 @@ import org.springframework.boot.test.autoconfigure.data.mongo.DataMongoTest;
 import static org.junit.jupiter.api.Assertions.*;
 
 @DataMongoTest
-public class ReviewRepositoryTest {
+class ReviewRepositoryTest {
 
     @Autowired
     private ReviewRepository reviewRepository;
