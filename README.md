@@ -3,6 +3,8 @@
 ## Introduction
 CritiqueCritique is a Spring Framework-based Movie Review Application that follows the MVC pattern. It employs REST API for React frontend communication and utilizes MongoDB for scalable data storage, providing a solution for evolving needs.
 
+[Frontend repository](https://github.com/ankitdani/critique-critique-UI)
+
 ## Technologies Used
 - ![Spring Framework](https://img.shields.io/badge/Spring_Framework-5.x-brightgreen)
 - ![React](https://img.shields.io/badge/React-17.x-blue)
